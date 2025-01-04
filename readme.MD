@@ -1,4 +1,5 @@
 # Dosa
 
-# little oil
-# chilli powder
+* little oil
+* chilli powder
+* karam 
